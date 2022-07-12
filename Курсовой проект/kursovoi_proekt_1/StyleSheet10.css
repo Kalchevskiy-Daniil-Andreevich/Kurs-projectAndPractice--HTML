@@ -1,0 +1,28 @@
+﻿SPECIALIZATION {
+    display: block;
+    text-align: center;
+    margin: 10px 20px 10px 20px;
+    margin-top: 12pt;
+    font-size: 18pt;
+}
+
+NAME {
+    font-style: italic;
+    text-align: center;
+    background-color:brown;
+}
+
+TIME {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    background-color: khaki;
+}
+FACULTY {
+    display: block;
+    margin: 50px 100px;
+    border-style: solid;
+    border-color: #8C0088;
+    text-align: center;
+    font-size: 15pt;
+}

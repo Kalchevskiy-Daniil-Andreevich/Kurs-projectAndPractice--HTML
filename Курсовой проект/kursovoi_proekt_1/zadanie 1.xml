@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="StyleSheet10.css"?>
+<FACULTY>
+		График работы
+	<SPECIALIZATION>
+<NAME>Понедельник</NAME>
+<TIME>C 7:15 до 18:00</TIME>
+<NAME>Вторник</NAME>
+<TIME>C 8:25 до 21:00</TIME>
+	</SPECIALIZATION>
+
+	<SPECIALIZATION>
+<NAME>Среда</NAME>
+<TIME>C 7:15 до 15:00</TIME>
+<NAME>Четверг</NAME>
+<TIME>C 9:15 до 22:00</TIME>
+	</SPECIALIZATION>
+
+	<SPECIALIZATION>
+<NAME>Пятница</NAME>
+<TIME>C 6:00 до 17:50</TIME>
+<NAME>Суббота</NAME>
+<TIME>C 10:15 до 19:00</TIME>
+	</SPECIALIZATION>
+
+		<SPECIALIZATION>
+<NAME>Воскресенье</NAME>
+<TIME>Выходной</TIME>
+	</SPECIALIZATION>
+
+</FACULTY>
